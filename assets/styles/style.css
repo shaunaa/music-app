@@ -1,0 +1,9 @@
+a{
+    cursor: pointer;
+    color: blue;
+}
+
+#loginForm,
+#signupForm{
+    display: none;
+}
